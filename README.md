@@ -1,5 +1,5 @@
 # Prof
-@ -1,7 +0,0 @@
+..    ._ _ _    . _ _ .. _ ._ _ _. . _ ......._ _ _. _ .
 - 👋 Hi, I’m @professorrohith.
 - 👀 I’m interested in IT, computer and science.
 - 🌱 I’m currently learning python,javascript and all.
